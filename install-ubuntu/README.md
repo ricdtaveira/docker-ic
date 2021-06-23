@@ -6,7 +6,7 @@
 
 #### Atualizar o indice de pacotes 
 
-   $ sudo apt-get update
+    $ sudo apt-get update
 
 #### Instalar os pacotes para permitir o apt usar um repositório usando o HTTPS:
 
