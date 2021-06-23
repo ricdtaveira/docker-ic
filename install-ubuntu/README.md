@@ -1,10 +1,10 @@
-### Instlação do Docker no Ununtu
+### Instlação do Docker no Ubuntu
 
 #### Remover instalação anterior e atualizar
 
     $ sudo apt-get remove docker docker-engine docker.io
 
-#### Autualizar o indice de pacotes 
+#### Atualizar o indice de pacotes 
 
    $ sudo apt-get update
 
